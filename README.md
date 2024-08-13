@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=00D2D3&width=1024&height=120&lines=Hello+fellow+coder!+Thanks+for+stopping+by.+Let’s+code+something+amazing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00D2D3&width=1024&height=120&lines=Hello+fellow+coder!+Thanks+for+stopping+by.+Let’s+code+something+amazing.)](https://git.io/typing-svg)
 <img src="https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966" alt="GitHub Image" width="900" />
 
 <h1 align="center">Hi 👋, I'm Piyush Prasoon</h1>
