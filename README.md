@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working as a data engineer in GlobalLogic(a Hitachi group Company) in Bangalore,India.
 
-- 🌱 I’m currently learning **I’m currently learning React Js, Mongoose, Express and other backend tools and technologies.**
+- 🌱 I’m currently learning **PySpark, Databricks, Azure, and modern Data Engineering technologies.**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **SQL, Python, ETL, Data Pipelines, and Data Engineering.**
 
 - 📫 How to reach me **piyushpr5679@gmail.com**
 
